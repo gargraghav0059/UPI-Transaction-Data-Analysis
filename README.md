@@ -71,26 +71,28 @@ Interactive dashboard navigation
 
 This project focused on practical Power BI report-building concepts:
 
-Concept	Implementation
-🎛️ Slicers	Multiple transaction filters
-🔗 Sync Slicers	Consistent filtering across views
-📐 Size & Position	Organized dashboard layout
-🎨 Formatting	Customized slicers and visuals
-🔖 Bookmarks	Switching between chart views
-📈 Line Charts	Monthly transaction trends
-📊 Column Charts	Monthly amount comparison
-📋 Matrix	Transaction analysis
-🔄 Interactivity	Dynamic report exploration
+| Concept | Implementation |
+|---------|----------------|
+| 🎛️ Slicers | Multiple transaction filters |
+| 🔗 Sync Slicers | Consistent filtering across views |
+| 📐 Size & Position | Organized dashboard layout |
+| 🎨 Formatting | Customized slicers and visuals |
+| 🔖 Bookmarks | Switching between chart views |
+| 📈 Line Charts | Monthly transaction trends |
+| 📊 Column Charts | Monthly amount comparison |
+| 📋 Matrix | Transaction analysis |
+| 🔄 Interactivity | Dynamic report exploration |
 
 ---
 
 ## 📸 Dashboard Preview
 
-<img src="Png1.png" width="48%">
-<img src="Png2.png" width="48%">
+<div align="center">
+  <img src="Png1.png" width="48%">
+  <img src="Png2.png" width="48%">
+</div>
 
 ---
-
 ## 🛠️ Tools Used
 Category	Technologies
 📗 Source Data	Microsoft Excel
