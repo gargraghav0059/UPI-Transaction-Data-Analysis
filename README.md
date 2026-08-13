@@ -86,10 +86,8 @@ Concept	Implementation
 
 ## 📸 Dashboard Preview
 
-<p align="center">
-  <img src="E:\Raghav\PROJECTS\UPI Transaction Power Bi Project\Png1.png" width="48%">
-  <img src="E:\Raghav\PROJECTS\UPI Transaction Power Bi Project\Png2.png" width="48%">
-</p>
+<img src="Png1.png" width="48%">
+<img src="Png2.png" width="48%">
 
 ---
 
